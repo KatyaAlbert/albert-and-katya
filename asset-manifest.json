@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/albert-and-katya/static/css/main.1d38599d.css",
-    "main.js": "/albert-and-katya/static/js/main.8a8db2d6.js",
+    "main.css": "/albert-and-katya/static/css/main.7b8234de.css",
+    "main.js": "/albert-and-katya/static/js/main.9fba7c3e.js",
     "static/js/787.bc7c1bae.chunk.js": "/albert-and-katya/static/js/787.bc7c1bae.chunk.js",
     "static/media/back.png": "/albert-and-katya/static/media/back.e35145b93ed80dd01654.png",
     "static/media/Great.ttf": "/albert-and-katya/static/media/Great.f51f1a4f2cd0c9611249.ttf",
@@ -10,16 +10,16 @@
     "static/media/rings.png": "/albert-and-katya/static/media/rings.0b1eb7b3e4c0232416e9.png",
     "static/media/divider.svg": "/albert-and-katya/static/media/divider.710aa2be84ab67e819997b335416d4fd.svg",
     "static/media/bus.svg": "/albert-and-katya/static/media/bus.3addb2ab9d20fc9e144f8a4dbef10e6b.svg",
-    "static/media/location.svg": "/albert-and-katya/static/media/location.3b463aa7105e09f23a30bbf3ce0415c7.svg",
+    "static/media/location.svg": "/albert-and-katya/static/media/location.50e3f4a54c711ca9d8b32d4123248be5.svg",
     "static/media/gift.svg": "/albert-and-katya/static/media/gift.9b75a60525ccaa1ab305c55e0b6c6d34.svg",
     "index.html": "/albert-and-katya/index.html",
     "static/media/heart.svg": "/albert-and-katya/static/media/heart.6e09920d8aa933c8a135e054c2cdd631.svg",
-    "main.1d38599d.css.map": "/albert-and-katya/static/css/main.1d38599d.css.map",
-    "main.8a8db2d6.js.map": "/albert-and-katya/static/js/main.8a8db2d6.js.map",
+    "main.7b8234de.css.map": "/albert-and-katya/static/css/main.7b8234de.css.map",
+    "main.9fba7c3e.js.map": "/albert-and-katya/static/js/main.9fba7c3e.js.map",
     "787.bc7c1bae.chunk.js.map": "/albert-and-katya/static/js/787.bc7c1bae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d38599d.css",
-    "static/js/main.8a8db2d6.js"
+    "static/css/main.7b8234de.css",
+    "static/js/main.9fba7c3e.js"
   ]
 }
