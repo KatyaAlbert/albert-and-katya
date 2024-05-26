@@ -143,17 +143,13 @@ export const MainPage = () => {
         <div className="month">Сентябрь</div>
         <div className="month_container">
           <motion.div
+            className="wedding_day"
             initial={{ scale: 1 }}
             animate={{ scale: 1.2 }}
             transition={{
               repeat: Infinity,
               repeatType: "reverse",
               duration: 1.5,
-            }}
-            style={{
-              position: "absolute",
-              top: "46px",
-              right: "48px",
             }}
           >
             <Heart />
